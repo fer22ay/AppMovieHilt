@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMovie</string>
+
+    <string name="global_message_permissions_all">You must agree to all permissions to use this app.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
